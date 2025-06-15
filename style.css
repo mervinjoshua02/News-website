@@ -344,15 +344,15 @@ display: flex;
   transform: scale(0.8);
 }
 
-@media screen and (max-width: 426px){
+@media screen and (max-width: 576px){
 html{
   width: 425px;
-  height: 689px;
+  
   overflow-x: hidden;
 }
 body{
   width: 425px;
-  height: 689px;
+  height: 1000px;
   overflow-x: hidden;
   box-sizing: border-box;
   
