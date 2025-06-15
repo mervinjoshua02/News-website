@@ -405,7 +405,7 @@ section{
  font-size:40px;
  width:369px ;
  height:132px ;
- white-space: pre-line;
+ white-space: wrap;
  position: relative;
  left: 10px;
  
@@ -457,7 +457,9 @@ color: black;
 }
 .aside-hero{
   position: relative;
-  left: 5px;
+  
+  width: 400px;
+  height: 1100px;
 }
 .mid-section{
   flex-direction: column;
